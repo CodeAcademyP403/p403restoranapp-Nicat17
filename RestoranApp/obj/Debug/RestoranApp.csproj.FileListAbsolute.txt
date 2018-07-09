@@ -1,0 +1,13 @@
+C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\bin\Debug\RestoranApp.exe.config
+C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\bin\Debug\RestoranApp.exe
+C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\bin\Debug\RestoranApp.pdb
+C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\obj\Debug\RestoranApp.Login.resources
+C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\obj\Debug\RestoranApp.Properties.Resources.resources
+C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\obj\Debug\RestoranApp.csproj.GenerateResource.Cache
+C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\obj\Debug\RestoranApp.exe
+C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\obj\Debug\RestoranApp.pdb
+C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\obj\Debug\RestoranApp.Register.resources
+C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\obj\Debug\RestoranApp.Waiter.resources
+C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\obj\Debug\RestoranApp.Maderator.resources
+C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\obj\Debug\RestoranApp.Admin.resources
+C:\Users\Nicat\Desktop\C#\Course Homework\RestoranApp\RestoranApp\obj\Debug\RestoranApp.csprojResolveAssemblyReference.cache
